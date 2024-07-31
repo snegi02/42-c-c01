@@ -1,0 +1,6 @@
+abcd
+hello
+hello
+bye
+good
+bad
